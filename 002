@@ -1,0 +1,30 @@
+# Lesson 2 - Variables and Data Types
+
+In Python, variables are used to store and manipulate data. They act as containers for holding values. Python supports different data types, such as integers, floats, strings, and booleans.
+
+Let's start by learning how to declare variables and work with different data types:
+
+```python
+# Declaring variables
+name = "Alice"
+age = 25
+height = 1.65
+is_student = True
+
+# Printing variable values
+print("Name:", name)
+print("Age:", age)
+print("Height:", height)
+print("Is Student?", is_student)
+```
+Explanation:
+
+- We declare variables `name`, `age`, `height`, and `is_student` to store different types of data.
+- The variable `name` is assigned a string value "Alice", `age` is assigned an integer value 25, `height` is assigned a float value 1.65, and `is_student` is assigned a boolean value True.
+- We use the `print()` function to display the values of the variables on the screen.
+
+Now it's time for a practical task:
+
+Task 2: Write a Python program that declares variables for your name, age, and favorite color. Print out the values of these variables on separate lines.
+
+Once you've completed the task, you can proceed to the next lesson.
