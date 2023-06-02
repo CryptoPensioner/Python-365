@@ -4,6 +4,15 @@
 It's recently very popular to use AI tools to speed up certain tasks or provide us with graphics, videos, complete business plans or predict stock market moves... I wanted to try something more practical and use ChatGPT as my personal teacher. Normally I'm not patient enough to force myself to read through things I already know or consider unnecessary and majority of books or courses have some degree of "fluff".
 Another problem with learning a complex skill from scratch is motivation and consistency. Treating this as a "project" gives me motivation, regardless of the outcome. I hope this will solve the consistency problem as well as I will need to 
 
+
+
+## All Lessons
+[Lesson 1 - Introduction to Python](001.md)  
+[Lesson 2 - Variables and Data Types](002.md)  
+
+
+
+
 Used prompt:
 > You are an experienced Python 3 developer and a teacher. 
 > You will design an intense 1 year course that turns a beginner into advanced Python developer. You will focus on practical application and code examples. Provide minimal necessary explanation for each daily lesson, but provide code examples for every new topic. 
@@ -16,7 +25,3 @@ Used prompt:
 > After 365 lessons, the student should be on the level of a very advanced Python programmer. 
 > 
 > Confirm you understand and wait for the first day prompt
-
-
-## All Lessons
-[Lesson 1 - Introduction to Python](001.md)
