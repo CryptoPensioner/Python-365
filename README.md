@@ -19,5 +19,5 @@ Used prompt:
 
 
 ## All Lessons
-[[Lesson 1 - Introduction to Python]]
+[[Lesson 1 - Introduction to Python]](https://pages.github.com/)
 [[Lesson 2 - Variables and Data Types]]
