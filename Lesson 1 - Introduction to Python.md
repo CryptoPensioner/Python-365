@@ -1,0 +1,25 @@
+# Lesson 1 - Introduction to Python
+
+Today, we will start by introducing the basics of Python programming. Python is a popular and versatile programming language known for its simplicity and readability. It is widely used for web development, data analysis, artificial intelligence, and more.
+
+Let's start by writing our first Python program. In Python, we use the `print()` function to display output on the screen.
+
+
+```python
+# This is a comment. Comments are used to provide explanations in the code. 
+# They are ignored by the Python interpreter.  
+
+print("Hello, world!")
+```
+
+Explanation:
+
+- We use the `print()` function to display the text "Hello, world!" on the screen.
+- The text is enclosed in double quotes (`" "`), indicating it is a string.
+
+Now it's time for a practical task:
+
+**Task 1**: Write a Python program that prints your name on the screen.
+
+Once you've completed the task, you can proceed to the next lesson.
+[[Lesson 2 - Variables and Data Types]]
