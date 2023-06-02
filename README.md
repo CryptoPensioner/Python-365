@@ -19,4 +19,4 @@ Used prompt:
 
 
 ## All Lessons
-[Lesson 1 - Introduction to Python](Lesson 1 - Introduction to Python.md)
+[[Lesson 1 - Introduction to Python]](Lesson 1 - Introduction to Python.md)
