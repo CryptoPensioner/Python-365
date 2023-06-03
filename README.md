@@ -1,8 +1,20 @@
-## Advanced Python programmer in 365 days
-==Using ChatGPT As My Personal Teacher==
+## From Beginner To Expert Python Programmer in 365 Days
+Can ChatGPT teach me Python?
 
-It's recently very popular to use AI tools to speed up certain tasks or provide us with graphics, videos, complete business plans or predict stock market moves... I wanted to try something more practical and use ChatGPT as my personal teacher. Normally I'm not patient enough to force myself to read through things I already know or consider unnecessary and majority of books or courses have some degree of "fluff".
-Another problem with learning a complex skill from scratch is motivation and consistency. Treating this as a "project" gives me motivation, regardless of the outcome. I hope this will solve the consistency problem as well as I will need to 
+It's popular to use AI tools to speed up certain tasks or create graphics, videos, complete business plans or predict stock market moves...  
+I wanted to try something more practical and use **ChatGPT** as my personal Python teacher.  
+
+Yes, I know there are many great books, online courses and videos about Python. That's not the point.
+
+I want to test a couple of things here:
+1. Can ChatGPT create a complex lesson plan? 
+   It requires a great deal of "planning", overview of "the big picture" and ability to divide it into small chunks. Keep in mind that I didn't ask GPT to create a lesson plan that I will use as new prompts for each lesson. I asked it to create everything for me. I will only ask it for a next lesson, nothing more.
+2. Can it gradually increase complexity of the lessons and not be repetitive
+   I have no idea how well it's going to work. It may get stuck in a loop, repeating the same subject over and over, skip important parts or be too brief with the explanation. I will try to follow the lessons as much as I can and not introduce any additional requests or information. 
+3. Can ChatGPT really work as a teacher?
+   I have no idea... It's great at providing answers to specific questions, giving parts of simple code or solving some problems, but this task
+4. Can I use this "project" as motivation?
+   Consistency is the key to obtaining any new skill. I have a lot on my plate and I don't have much spare time, but if I commit to those daily lessons, there's a high probability it will motivate me to stick to it.
 
 
 
