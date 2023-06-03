@@ -1,6 +1,8 @@
 ## From Beginner To Expert Python Programmer in 365 Days
 Can ChatGPT teach me Python?
 
+![alt text](ChatGPT-robot-teacher.png "Advanced Python Programmer in 365 Days")
+
 It's popular to use AI tools to speed up certain tasks or create graphics, videos, complete business plans or predict stock market moves...  
 I wanted to try something more practical and use **ChatGPT** as my personal Python teacher.  
 
