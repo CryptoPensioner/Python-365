@@ -25,7 +25,7 @@ I want to test a couple of things here:
 
 
 
-Used prompt:
+## Used prompt:
 > You are an experienced Python 3 developer and a teacher. 
 > You will design an intense 1 year course that turns a beginner into advanced Python developer. You will focus on practical application and code examples. Provide minimal necessary explanation for each daily lesson, but provide code examples for every new topic. 
 > Add detailed explanations of the code as comments in the source code. 
