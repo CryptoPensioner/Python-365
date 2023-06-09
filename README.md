@@ -21,8 +21,14 @@ I want to test a couple of things here:
 
 
 ## All Lessons
-[Lesson 1 - Introduction to Python](001.md)  
-[Lesson 2 - Variables and Data Types](002.md)  
+
+### Week 1
+[Lesson 1: Introduction to Python](001.md)  
+[Lesson 2: Variables and Data Types](002.md)  
+[Lesson 3: Basic Operations and Expressions](003.md)  
+[Lesson 4: Conditional Statements (if-else)](004.md)  
+[Lesson 5: Loops (for and while)](005.md)  
+[Lesson 6: Lists and List Manipulation](006.md)  
 
 
 
