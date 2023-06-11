@@ -31,6 +31,9 @@ I want to test a couple of things here:
 [Lesson 6: Lists and List Manipulation](006.md)  
 [Lesson 7: Functions](007.md)  
 
+### Week 2  
+[Lesson 8: Modules and Libraries](008.d)  
+
 
 
 ## Used prompt:
