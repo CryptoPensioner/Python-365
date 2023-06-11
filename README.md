@@ -29,7 +29,7 @@ I want to test a couple of things here:
 [Lesson 4: Conditional Statements (if-else)](004.md)  
 [Lesson 5: Loops (for and while)](005.md)  
 [Lesson 6: Lists and List Manipulation](006.md)  
-
+[Lesson 7: Functions](007.md)  
 
 
 
