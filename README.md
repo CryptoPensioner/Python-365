@@ -32,7 +32,16 @@ I want to test a couple of things here:
 [Lesson 7: Functions](007.md)  
 
 ### Week 2  
-[Lesson 8: Modules and Libraries](008.d)  
+[Lesson 8: Modules and Libraries](008.md)  
+[Lesson 9: File Handling](009.md)  
+[Lesson 10: Error Handling (Exception Handling)](010.md)  
+[Lesson 11: Object-Oriented Programming (OOP) - Classes and Objects](011.md)  
+[Lesson 12: Object-Oriented Programming (OOP) - Inheritance](012.md)  
+[Lesson 13: Object-Oriented Programming (OOP) - Encapsulation and Access Modifiers](013.md)  
+[Lesson 14: Object-Oriented Programming (OOP) - Polymorphism](014.md)  
+
+### Week 3
+
 
 
 
